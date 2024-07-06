@@ -1,2 +1,2 @@
 # FPGA-4bit-CPU
-8-bit CPU consisting of ALU, 8 bit registers, and a 4-to-16 Decoder, and a manual clock made through Quartus II for the Cyclone II FPGA Board.
+8-bit CPU consisting of ALU, 8 bit registers, and a 4-to-16 Decoder, and a manual clock made through Quartus II for the Cyclone III FPGA Board. The files consist of the invidivual VHDL code, that was used to generate symbols via the BSD symbol generator, timing analysis diagrams to make sure that the components were functional, and a final composition of the all the components. This project are from a year ago, and a little disorganized. My apologies for that.
